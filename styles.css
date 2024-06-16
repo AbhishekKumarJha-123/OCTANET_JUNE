@@ -48,7 +48,7 @@ nav {
   max-width: 70px;
 }
 
-.nav__links {
+.nav__link {
   list-style: none;
   display: flex;
   align-items: center;
